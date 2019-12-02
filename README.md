@@ -1,3 +1,3 @@
-# angular-8retc9
+# ngx-cascading-forms
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-8retc9)
+This is a series of classes to help with cascading forms
